@@ -1,0 +1,6 @@
+[submodule "lib/libcopland"]
+	path = lib/libcopland
+	url = https://github.com/keyboard-slayer/libcopland
+[submodule "lib/vec"]
+	path = lib/vec
+	url = https://github.com/rxi/vec
